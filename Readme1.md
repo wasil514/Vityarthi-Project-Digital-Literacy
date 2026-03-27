@@ -14,7 +14,8 @@ This module introduces the concept of digital literacy and its importance in tod
 This module focuses on creating and managing proessional online profiles on platforms like GitHub, LinkedIn, Kaggle. It helps students build an online presence and showcase their sklills and work.
 
 **MODULE-3**- Programming and collabraton programs:
-Students explore collaborative tools such as Google Docs, Sheets, Slides, and Forms. It includes coding platforms like HackerRank, CodeChef, and HackerEarth to improve problem solving and programming skills. 
+Students explore collaborative tools such as Google Docs, Sheets, Slides, and Forms. It includes coding platforms like HackerRank, CodeChef, and HackerEarth to improve problem solving and programming skills.
+Link for the Google form:- https://docs.google.com/forms/d/e/1FAIpQLSc1512uWVEv-sK1yyoLW3slWYqavoguwlw9PRapDSm4hHon7Q/viewform?usp=publish-editor
 
 **MODULE-4**- Email and Social media Etiquette:
 This module teaches professional communication, including writing formal emails and maintaining proper behaviour on social media. It highlights the importance of positive and responsible digital presence. 
